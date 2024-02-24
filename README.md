@@ -45,7 +45,6 @@ $ yarn dev
 ![Typescript](https://img.shields.io/badge/Typescript-188DFF?style=for-the-badge&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-![React Query](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 
 ### Communication
